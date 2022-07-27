@@ -1,2 +1,2 @@
 # https://twitter.com/LIS2RT
- Twitter Bot created using 
+ Twitter Bot created using C++. 
